@@ -4,8 +4,6 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:liquid_pull_to_refresh/liquid_pull_to_refresh.dart';
-import 'package:recursion/Presentation/Screens/AboutUsPage/notifications_card_class.dart';
-import 'package:recursion/Presentation/Screens/AboutUsPage/upc_scroller_card_class.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../../Application/api_interaction/about_us_api_use_case.dart';
